@@ -13,7 +13,7 @@ https://gist.github.com/rxaviers/7360908
 - 🌱 Gaining expertise in applying DL to various applications in multiple domains including Computer Vision (CV), Natural Language Processing (NLP), etc.
 
 <br>
-## :computer: Expertise
+## :bulb: Expertise
 * **Web Development:** HTML/CSS/JavaScript - react, nodejs, etc.
 * **Languages:** JavaScript, Python, MATLAB
 * **Databases:** SQL, MongoDB
