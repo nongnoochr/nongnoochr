@@ -14,7 +14,7 @@ https://gist.github.com/rxaviers/7360908
 
 <br>
 
-## :bulb: Expertise
+## :computer: Expertise
 * **Web Development:** HTML/CSS/JavaScript - react, nodejs, etc.
 * **Languages:** JavaScript, Python, MATLAB
 * **Databases:** SQL, MongoDB
