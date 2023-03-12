@@ -8,7 +8,7 @@ https://gist.github.com/rxaviers/7360908
 --->
 
 
-👋 I am a fullstack software engineer with various skills ranging from IoT, DL, Web Development etc.
+👋 I am a fullstack software engineer and software engineer in test with various skills ranging from IoT, DL, Web Development etc.
 - 🔭 I’m passionate about high quality software in applied Data Science + Software development to solve problems especially for social good
 - :heart: I love making new connectiong and sharing+teaching what I learned to others
 - 🌱 Gaining expertise in applying DL to various applications in multiple domains including Computer Vision (CV), Natural Language Processing (NLP), etc.
